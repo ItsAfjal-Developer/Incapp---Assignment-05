@@ -23,4 +23,4 @@ Below is a Preview of **Assignment 3.3**, Showcasing the Layout and Styling impl
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 
-<img src="./images/Assignment-3.3.png" alt="Assignment 3.2 Preview" width="100%" />
+<img src="./Images/Assignment-3.3.png" alt="Assignment 3.3 Preview" width="100%" />

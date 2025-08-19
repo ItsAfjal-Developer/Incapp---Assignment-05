@@ -1,4 +1,4 @@
-# Incapp - Assignment-05<sup>th</sup>
+# Incapp - Assignment 05<sup>th</sup>
 
 This is the **05<sup>th</sup> Assignment Project** from **Incapp Institute** ,
 Created as part of the Frontend Development Training. 
